@@ -1,5 +1,5 @@
 # OpenCV_Python_Study
----
+
 
 Python을 이용한 OpenCV Study입니다 :)
 
@@ -12,17 +12,23 @@ Outline
 Schedule
 ---
 
+
+
 22.08.18
 'OpenCV-Python으로 배우는 영상 처리 및 응용(정성환, 배종욱 저)' 대출
+
 
 22.08.19
 - CHAPTER 01 영상처리 개요
 
+
 22.08.22
 - CHAPTER 02 OpenCV와 Python
 
+
 22.08.23
 - CHAPTER 03 Python 둘러보기
+
 
 22.08.24 - 22.08.26
 - CHAPTER 04 OpenCV 인터페이스
