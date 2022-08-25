@@ -28,3 +28,4 @@ cv2.setMouseCallback(title1, onMouse)
 cv2.waitKey(0)
 # 열린 모든 윈도우 제거
 cv2.destroyAllWindows()
+
