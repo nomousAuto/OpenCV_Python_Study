@@ -29,7 +29,4 @@ cv2.waitKey(0)
 
 # 열린 모든 윈도우 제거
 cv2.destroyAllWindows()
-				 
-				   
-				   
-				   
+		   
