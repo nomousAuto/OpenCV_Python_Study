@@ -17,11 +17,13 @@ def onMouse(event, x, y, flags, param):
 # 굵기 조절 콜백 함수
 def line_bar(value):
     global line
+    print(value)
     line = value
     
 # 원 반지름 조절 콜백 함수
 def radius_bar(value):
     global radius
+    print(value)
     radius = value
 
 
@@ -52,3 +54,5 @@ while True:
         break
         
 cv2.destroyAllWindows()
+
+# Source : https://min-wachya.tistory.com/100?category=830312
